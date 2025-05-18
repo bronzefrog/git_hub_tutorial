@@ -2,6 +2,7 @@
 
 An introduction to git:
 
+This is the feature_hotfix branch, and this is the only difference.
 
 ### Files:
 - git.ipynb
